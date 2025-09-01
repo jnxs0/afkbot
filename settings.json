@@ -1,8 +1,8 @@
 {
   "bot-account": {
-    "username": "3ROG", 
+    "username": "AFKBot", 
     "password": "",
-    "type": "mojang"
+    "type": "offline"
   },
 
   "server": {
