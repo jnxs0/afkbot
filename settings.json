@@ -1,14 +1,14 @@
 {
   "bot-account": {
-    "username": "AFKBot", 
+    "username": "3ROG", 
     "password": "",
     "type": "offline"
   },
 
   "server": {
-    "ip": "Tyrox_x.aternos.me", 
-    "port": 48211,   
-    "version": "1.12.1"   
+    "ip": "carzma.aternos.me", 
+    "port": 63017,   
+    "version": "1.21.4"   
   },
 
   "position": {
@@ -35,9 +35,9 @@
       "repeat-delay": 60,
 
       "messages": [
-        "I'm a regular player",
-        "Subscibe To Tyrox!",
-        "I Like to Play Minecraft!"
+        "Server 3ROG",
+        "Welcome",
+        "Join Discord: https://discord.gg/4aa"
       ]
     },
 
